@@ -20,12 +20,4 @@ int main(){
       current->link=NULL;
       head->link->link=current;
       printf("%d",current->data);
-
-     
-
-
-
-
-
-
 }
